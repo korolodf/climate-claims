@@ -1,6 +1,22 @@
----
-title: Fear Mongering in Climate Science: The Medical Community Strikes Again!
-layout: default
-nav_order: 1
----
 
+# Fear Mongering in Climate Science: The Medical Community Strikes Again!
+
+
+![climate change and health](https://www.publichealth.columbia.edu/sites/default/files/styles/hero_1500x632/public/jpg/climatecrisis081921-1500x632.jpg?itok=Ixi-q38m)
+
+In the popular counter-culture climate change focussed website [Watt's up With That!](https://wattsupwiththat.com/), an [interesting article](https://wattsupwiththat.com/2021/09/12/medical-journals-committing-malpractice-with-climate-change-public-health-crisis-misdiagnosis/) titled *Medical Journals Commit Malpractice with Climate Change Misdiagnosis* by H. Sterling Burnett, PhD. was posted in early September, 2021. As might have been inferred by the article’s title, the purpose was to critique a statement made by multiple medical journals with regards to the effects of climate change on human health. The statement in question was one about climate change being the single greatest threat to public health, putting emphasis on the dire need to limit global warming to 1.5 degrees celsius above pre-industrial times. In so doing, the findings of the IPCC’s AR5 report were also challenged.
+
+## Article Summary
+
+This article fights this statement by using data of human health outcomes over recent warming years, notably the decreases in premature deaths due to extreme temperatures, extreme weather events, and weather-related illnesses and mosquito borne diseases. Next, Burnett claimed that weather events are not getting worse, and consequently, human health impacts are not worsening either, citing a 99 percent decrease in mortality due to these events over the past century. In addition, he cited that temperature related deaths are on the decline, and that cold weather is statistically more deadly, meaning overall warming trends are not a threat. In addition, Burnett cited literature (albeit anti-climate change, pro fossil fuel literature) that states that Lyme disease, malaria, Dengue fever, West Nile virus, and other vector-borne diseases are not increasing due to climate change. Further, Burnett argues that the changing climate is **more suitable** to food growing, as temperatures have increased, and so has atmospheric CO<sub>2</sub>, which has resulted in more food per person than there were three decades ago. Burnett closes by referring to climate modelling and its differences to real-world events, leaving the reader questioning whether models have been incorrect.
+
+## What Makes This Article Compelling and Interesting?
+
+Burnett’s arguments are of interest because they are contrary to the IPCC’s AR5 report, which states that food insecurity and premature death due to causes such as vector-borne diseases will see increases due to climate change. His arguments are logical, with the only identifiable flaw being that unmentioned technological advances could be an important consideration for reductions in deaths and greater mass of food in recent years. Even so, Burnett’s arguments provoke consideration of how climate change is portrayed by the media, as I was under the impression that climate related deaths were unarguably on the rise.
+  
+  
+Another reason that these arguments are of interest is because Burnett argued against the use of fear-mongering by the scientific medical community, which is relevant and valid. Another instance of this is the current COVID-19 pandemic. Today, bodies like the CDC change the definition of cause of death in order to inflate COVID-19 deaths and government-made infographics showing deaths in vaccinated versus unvaccinated groups include data from before vaccines were available to the majority of the public. Burnett is likely correct that fear-mongering is present. It should be considered whether fear-mongering is taking place in this community. 
+
+## Where does this article stand credibility-wise?
+
+The purpose of this article is to persuade and provide information, by critiquing a widely accepted statement and addressing conflicting information. A layman audience looking for an alternative view on climate science is targeted by the platform. The author, Burnett, works at a ‘think tank’ known as the [Heartland Institute](https://www.heartland.org/) as a senior fellow, and has a PhD in applied philosophy and a specialization in environmental ethics. The website is a blog website, and for all of the information indicated to be cited in the above summary, sources are provided. This article argues based upon recent past information so historical information suffices to validate these claims. The article contains both opinion and fact, but is not advertising content, and other than the platform and author’s institution, which are critical of mainstream climate science, the information does not push an agenda. Based upon this information, the content of this article seems more credible than not.
